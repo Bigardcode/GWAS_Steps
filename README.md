@@ -1,4 +1,4 @@
-# Project Title
+# GWAS Step by Step
 
 One Paragraph of the project description
 
